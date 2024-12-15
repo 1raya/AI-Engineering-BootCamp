@@ -23,7 +23,7 @@ This project is built using:
   - Matplotlib
   - OpenAI API (or relevant libraries for RAG)
 
-   ```
+
    
 ## Team Members
 - **Raya**
