@@ -21,7 +21,7 @@ This project is built using:
   - Pandas
   - NumPy
   - Matplotlib
-  - OpenAI API (or relevant libraries for RAG)
+  - OpenAI API 
 
 
    
