@@ -26,8 +26,8 @@ This project is built using:
 
    
 ## Team Members
-- - **Raya** - [@1raya](https://github.com/1raya)
-- **Doaa**
+-  [Raya](https://github.com/1raya)
+-  [Doaa](https://github.com/DoaaZain)
 
 
 
